@@ -1,5 +1,5 @@
 # TP Hibernate
-
+Réalisé par: Hiba El Ouerkhaoui
 ## 📂 Fichiers et Dossiers
 
 ### 1. `com.example.persistence` (Gestion de la persistence)
